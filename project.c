@@ -1,5 +1,2 @@
-error: failed to push so
-
-
-
+hello world
 
